@@ -82,3 +82,5 @@ Open extension settings and turn on `Enable ESLint as a formatter`.
 [1] https://github.com/wcandillon/eslint-config-react-native-wcandillon
 
 [2] https://gist.github.com/wcandillon/cf5882e64695ee8f572c3251e258a90b
+
+[3] https://www.youtube.com/watch?v=mqO9EGvt-kU
