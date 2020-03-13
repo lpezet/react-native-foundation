@@ -23,7 +23,7 @@ Choose `blank (TypeScript)`
 
 Edit `tsconfig.json`, add the following:
 
-```json
+```javascript
 {
   "strict": true,                           /* Enable all strict type-checking options. */
   "noImplicitAny": true,                 /* Raise error on expressions and declarations with an implied 'any' type. */
@@ -52,13 +52,13 @@ Create `.eslintrc` file and paste the following:
 
 ```json
 { 
-  "extends": "react-native-wcandillon", 
+  "extends": "react-native-wcandillon"
 } 
 ```
 
 In `package.json`, add script entries for `lint` and `tsc` as follows:
 
-```json
+```javascript
 {
     ...
     "scripts": {
